@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_service_logbook.xml",
+        "source": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\src\\main\\res\\layout\\activity_service_logbook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_home.xml",
+        "source": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\src\\main\\res\\layout\\list_item_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_about.xml",
+        "source": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\src\\main\\res\\layout\\dialog_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_service_systeminfo.xml",
+        "source": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\src\\main\\res\\layout\\activity_service_systeminfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_service_symbollist.xml",
+        "source": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\src\\main\\res\\layout\\activity_service_symbollist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_graph.xml",
+        "source": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\src\\main\\res\\layout\\activity_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_indradroid_tab.xml",
+        "source": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\src\\main\\res\\layout\\activity_indradroid_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_systeminfo.xml",
+        "source": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\src\\main\\res\\layout\\list_item_systeminfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_symbollist.xml",
+        "source": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\src\\main\\res\\layout\\list_item_symbollist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_logbook.xml",
+        "source": "C:\\Users\\Adam\\Documents\\Android Studio Samples\\latest\\CMD_OCE_2016_PackExpo_App\\app\\src\\main\\res\\layout\\list_item_logbook.xml"
+    }
+]

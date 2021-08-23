@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Adam\Documents\Android Studio Samples\latest\CMD_OCE_2016_PackExpo_App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5ca893a27b4f5a456b51325c4ccc492fdb76b">
+        <dex dex="C:\Users\Adam\Documents\Android Studio Samples\latest\CMD_OCE_2016_PackExpo_App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5ae20a70da93415cbeb8e46a40ba35c0d18258d0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Adam\Documents\Android Studio Samples\latest\CMD_OCE_2016_PackExpo_App\app\libs\mpandroidchartlibrary-2-2-4.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e5455fb794bfcbeb75da252dffd907794614f7fd">
+        <dex dex="C:\Users\Adam\Documents\Android Studio Samples\latest\CMD_OCE_2016_PackExpo_App\app\build\intermediates\transforms\dex\debug\folders\1000\2\mpandroidchartlibrary-2-2-4_6862920977dc83cf06cc531cb36034ef2c301d91\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Adam\Documents\Android Studio Samples\latest\CMD_OCE_2016_PackExpo_App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="29e64300998217c43f2c83d06f46bf8cb9139af8">
+        <dex dex="C:\Users\Adam\Documents\Android Studio Samples\latest\CMD_OCE_2016_PackExpo_App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9ca68335ae1bd7572d4e3592016cfcba12f51547\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Adam\Documents\Android Studio Samples\latest\CMD_OCE_2016_PackExpo_App\app\libs\javamlpi.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8cbf914c812ba778cbfb0b9d60d417589443892b">
+        <dex dex="C:\Users\Adam\Documents\Android Studio Samples\latest\CMD_OCE_2016_PackExpo_App\app\build\intermediates\transforms\dex\debug\folders\1000\2\javamlpi_830c2495d966b47d474cc8306aecb9feea581574\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Adam\Documents\Android Studio Samples\latest\CMD_OCE_2016_PackExpo_App\app\libs\GraphView-3.1.3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="672e4a5d8906ab21665dcc08c1f7edb6efd6f903">
+        <dex dex="C:\Users\Adam\Documents\Android Studio Samples\latest\CMD_OCE_2016_PackExpo_App\app\build\intermediates\transforms\dex\debug\folders\1000\2\GraphView-3.1.3_cd819313d11ac419c6a5b4ebeb051eef447b2899\classes.dex" />
+    </item>
+
+</items>

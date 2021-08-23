@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Device">
+    	<EditTextPreference android:title="Device Address"
+            android:key="device_address"
+            android:summary="Address of the device">
+
+        </EditTextPreference>
+    	<CheckBoxPreference android:title="Autoconnect"
+            android:key="device_autoconnect"
+            android:summary="Auto connect on app start">
+        </CheckBoxPreference>
+    </PreferenceCategory>
+</PreferenceScreen>

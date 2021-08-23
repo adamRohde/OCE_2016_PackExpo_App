@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Adam\Documents\Android Studio Samples\latest\CMD_OCE_2016_PackExpo_App\app\src\main\jniLibs"><file name="armeabi/libmlpijavaandroid.so" path="C:\Users\Adam\Documents\Android Studio Samples\latest\CMD_OCE_2016_PackExpo_App\app\src\main\jniLibs\armeabi\libmlpijavaandroid.so"/></source></dataSet><dataSet config="debug"><source path="C:\Users\Adam\Documents\Android Studio Samples\latest\CMD_OCE_2016_PackExpo_App\app\src\debug\jniLibs"/></dataSet></merger>

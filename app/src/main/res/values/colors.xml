@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="red">#F44336</color>
+	<color name="green">#4CAF50</color>
+	<color name="blue">#1E90FF</color>
+	<color name="frame">#b4b4b4</color>
+	<color name="frame_solid">#fff</color>
+	<color name="frame_background">#e5eef2</color>
+	<color name="rexroth_white">#ffffff</color>
+	<color name="rexroth_gray_web">#333333</color>
+</resources> 

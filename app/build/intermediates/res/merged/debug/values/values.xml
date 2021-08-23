@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#1E90FF</color>
+    <color name="frame">#b4b4b4</color>
+    <color name="frame_background">#e5eef2</color>
+    <color name="frame_solid">#fff</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+    <color name="rexroth_gray_web">#333333</color>
+    <color name="rexroth_white">#ffffff</color>
+    <string name="activity_connectprogess">Connecting...</string>
+    <string name="activity_connectprogesstitle">Please wait...</string>
+    <string name="activity_login_address">Device Address:</string>
+    <string name="activity_login_connect">Connect</string>
+    <string name="activity_login_connecterror">Failed to connect to control! Is the IP correct?</string>
+    <string name="activity_login_defaultip">192.168.1.5</string>
+    <string name="activity_login_password">Password:</string>
+    <string name="activity_login_user">Username:</string>
+    <string name="app_copyright">BoschRexroth/EAM/Sebastian Krauskopf</string>
+    <string name="app_name">CMD OCE PackExpo App</string>
+    <string name="ip_address_used">"192.168.0.5"</string>
+    <string name="menu_about">About</string>
+    <string name="menu_preferences">Preferences</string>
+</resources>

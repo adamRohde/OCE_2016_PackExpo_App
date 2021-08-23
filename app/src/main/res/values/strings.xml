@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CMD OCE PackExpo App</string>
+    <string name="app_copyright">BoschRexroth/EAM/Sebastian Krauskopf</string>
+    <string name="menu_preferences">Preferences</string>
+    <string name="menu_about">About</string>
+    <string name="activity_connectprogess">Connecting...</string>
+    <string name="activity_connectprogesstitle">Please wait...</string>
+    <string name="activity_login_address">Device Address:</string>
+    <string name="activity_login_user">Username:</string>
+    <string name="activity_login_password">Password:</string>
+    <string name="activity_login_defaultip">192.168.1.5</string>
+    <string name="activity_login_connect">Connect</string>
+    <string name="activity_login_connecterror">Failed to connect to control! Is the IP correct?</string>
+    <string name="ip_address_used">"192.168.0.5"</string>
+</resources>

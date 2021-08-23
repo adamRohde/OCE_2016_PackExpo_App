@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:paddingLeft="0dp"
+            android:textSize="28dp"
+            android:textColor="@color/rexroth_white"
+            android:background="@drawable/rexroth_gradient_navy"
+            android:layout_alignParentTop="true"
+            android:text="Machine Diagnostics" />
+
+        <RelativeLayout
+            android:id="@+id/pieChartActivity99"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight = "1"
+            android:padding="0dp">
+
+            <LinearLayout
+                android:id="@+id/HorizontalBtnLayout"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:paddingBottom="16dp"
+                android:layout_alignParentBottom="true">
+
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="75dp"
+                    android:layout_weight="1"
+                    android:text="Speed"
+                    android:textSize="18dp"
+                    android:id="@+id/home_machine_speed" />
+
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="75dp"
+                    android:layout_weight="1"
+                    android:textSize="18dp"
+                    android:text="Cull"
+                    android:id="@+id/home_cull" />
+
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="75dp"
+                    android:layout_weight="1"
+                    android:textSize="18dp"
+                    android:text="Count Reset"
+                    android:id="@+id/home_count_reset" />
+
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="75dp"
+                    android:layout_weight="1"
+                    android:textSize="18dp"
+                    android:text="Clear Error"
+                    android:id="@+id/home_clear_error" />
+
+            </LinearLayout>
+
+            <ListView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/listView"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true" />
+
+        </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight = "1"
+                    android:padding="0dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingTop="0dp"
+                        android:paddingLeft="0dp"
+                        android:text="Machine Cycle Count"
+                        android:textSize="28dp"
+                        android:textColor="@color/rexroth_white"
+                        android:background="@drawable/rexroth_gradient_navy"
+                        android:id="@+id/textView2"/>
+
+                            <RelativeLayout
+                                android:id="@+id/pieChartActivity1"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight = "1"
+                                android:paddingTop="40dp"
+                                android:paddingBottom="10dp"
+                                android:paddingRight="0dp">
+
+                                <TextView
+                                    android:id="@+id/textView8"
+                                    android:layout_width="220dp"
+                                    android:layout_height="wrap_content"
+                                    android:text="Good Count"
+                                    android:layout_marginLeft="16dp"
+                                    android:layout_marginTop="18dp"
+                                    android:background="@color/green"
+                                    android:textSize="18sp"
+                                    android:textColor="@color/rexroth_white"
+                                    android:textStyle="italic"/>
+
+                                <TextView
+                                    android:id="@+id/textView9"
+                                    android:layout_width="150dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_below="@+id/textView8"
+                                    android:text="Error Count"
+                                    android:layout_marginLeft="16dp"
+                                    android:layout_marginTop="18dp"
+                                    android:background="@color/red"
+                                    android:textSize="18sp"
+                                    android:textColor="@color/rexroth_white"
+                                    android:textStyle="italic"/>
+
+                                <TextView
+                                    android:id="@+id/textView10"
+                                    android:layout_width="120dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_below="@+id/textView9"
+                                    android:text="Total Count"
+                                    android:layout_marginLeft="16dp"
+                                    android:layout_marginTop="18dp"
+                                    android:background="@drawable/rexroth_gradient_navy"
+                                    android:textSize="18sp"
+                                    android:textColor="@color/rexroth_white"
+                                    android:textStyle="italic"/>
+
+                                <com.github.mikephil.charting.charts.PieChart
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_alignParentLeft="true">
+                                </com.github.mikephil.charting.charts.PieChart>
+
+                            </RelativeLayout>
+                    </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

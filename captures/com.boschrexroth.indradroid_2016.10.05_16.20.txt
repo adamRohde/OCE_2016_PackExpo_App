@@ -1,0 +1,120 @@
+TASK com.boschrexroth.indradroid id=2268
+  ACTIVITY com.boschrexroth.indradroid/.IndraDroidTabActivity 3efcce2 pid=1152
+    Local Activity 91ac7f7 State:
+      mResumed=false mStopped=true mFinished=false
+      mChangingConfigurations=false
+      mCurrentConfig={0 1.0 showBtnBg = 0 ?mcc?mnc en_US ldltr sw768dp w768dp h1000dp 320dpi xlrg port finger -keyb/v/h -nav/h s.9}
+      overrideConfig={0 1.0 showBtnBg = -1 ?mcc?mnc ?locale ?layoutDir ?swdp ?wdp ?hdp ?density ?lsize ?long ?orien ?uimode ?night ?touch ?keyb/?/? ?nav/?}
+      DisplayMetrics=DisplayMetrics{density=2.0, width=1536, height=2048, scaledDensity=2.0, xdpi=319.79, ydpi=319.136}
+      mMultiWindowStyle=MultiWindowStyle{type=0, zone=ZONE_UNKNOWN, option=0x00000000, bounds=null, isNull=false, isolatedCenterPoint=Point(0, 0), scale=0.0, specificTaskId=-1}
+      mLoadersStarted=true
+      FragmentManager misc state:
+        mHost=android.app.Activity$HostCallbacks@567ed82
+        mContainer=android.app.Activity$HostCallbacks@567ed82
+        mCurState=3 mStateSaved=true mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=22504759 (74757 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{a1a94a3 I.E...... R......D 0,0-1536,2048}
+        android.widget.LinearLayout{c29ec93 V.E...... .......D 0,0-1536,2048}
+          android.view.ViewStub{a0b4d0 G.E...... ......I. 0,0-0,0 #102046a android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{4648cc9 V.E...... .......D 0,48-1536,2048 #1020002 android:id/content}
+            android.widget.TabHost{e2b5fce VFE...... .......D 0,0-1536,2000 #1020012 android:id/tabhost}
+              android.widget.LinearLayout{6fcbeef V.E...... .......D 0,0-1536,2000}
+                android.widget.TabWidget{7a44dfc VFE...... .......D 10,10-1526,138 #1020013 android:id/tabs}
+                  android.widget.RelativeLayout{da02c85 VFE...C.. ..S...ID -5,0-384,128}
+                    android.widget.ImageView{ea1aada V.ED..... ..S..... 162,12-226,76 #1020006 android:id/icon}
+                    android.widget.TextView{b805b0b V.ED..... ..S..... 156,80-232,118 #1020016 android:id/title}
+                  android.widget.RelativeLayout{6e64de8 VFE...C.. ......ID 374,0-763,128}
+                    android.widget.ImageView{53c0c01 V.ED..... ........ 162,12-226,76 #1020006 android:id/icon}
+                    android.widget.TextView{fff9aa6 V.ED..... ........ 158,80-231,118 #1020016 android:id/title}
+                  android.widget.RelativeLayout{3579ce7 VFE...C.. ......ID 753,0-1142,128}
+                    android.widget.ImageView{fc66094 V.ED..... ........ 162,12-226,76 #1020006 android:id/icon}
+                    android.widget.TextView{f5c673d V.ED..... ........ 123,80-265,118 #1020016 android:id/title}
+                  android.widget.RelativeLayout{7fabb32 VFE...C.. ......ID 1132,0-1521,128}
+                    android.widget.ImageView{5772083 V.ED..... ........ 162,12-226,76 #1020006 android:id/icon}
+                    android.widget.TextView{7f2f200 V.ED..... ........ 140,80-249,118 #1020016 android:id/title}
+                android.widget.FrameLayout{42d3a39 V.E...... .......D 10,138-1526,1990 #1020011 android:id/tabcontent}
+                  com.android.internal.policy.PhoneWindow$DecorView{15587e VFE...... RF.....D 10,10-1506,1842}
+                    android.widget.LinearLayout{98141df V.E...... .......D 0,0-1496,1832}
+                      android.view.ViewStub{f952e2c G.E...... ......I. 0,0-0,0 #102046a android:id/action_mode_bar_stub}
+                      android.widget.FrameLayout{89e40f5 V.E...... .......D 0,0-1496,1832 #1020002 android:id/content}
+                        android.widget.RelativeLayout{5aa7e8a V.E...... .......D 0,0-1496,1832}
+                          android.widget.LinearLayout{4e21cfb V.E...... .......D 0,0-1496,1832}
+                            android.widget.TextView{e3d0118 V.ED..... ......ID 0,16-1496,92 #7f080003 app:id/textView6}
+                            android.widget.RelativeLayout{6def771 V.E...... .......D 0,92-1496,962 #7f080004 app:id/pieChartActivity99}
+                              android.widget.TextView{eb9f956 V.ED..... ......ID 32,32-1432,81 #7f080005 app:id/textView1}
+                              android.widget.TextView{dab8dd7 V.ED..... ......ID 32,113-1432,162 #7f080006 app:id/textView2}
+                              android.widget.TextView{28d16c4 V.ED..... ......ID 32,194-1432,243 #7f080007 app:id/textView3}
+                              android.widget.TextView{29a99ad V.ED..... ......ID 32,275-1432,324 #7f080008 app:id/textView4}
+                              android.widget.TextView{f7454e2 V.ED..... ......ID 32,356-1432,405 #7f080009 app:id/textView5}
+                              android.widget.TextView{f313073 V.ED..... ......ID 32,437-332,486 #7f080003 app:id/textView6}
+                              android.widget.TextView{a6db30 V.ED..... ......ID 32,518-332,567 #7f08000a app:id/textView7}
+                              android.widget.LinearLayout{4f423a9 V.E...... .......D 0,688-1496,870 #7f08000b app:id/HorizontalBtnLayout}
+                                android.widget.Button{c86dd2e VFED..C.. ......ID 0,0-374,150 #7f08000c app:id/home_machine_speed}
+                                android.widget.Button{c6460cf VFED..C.. ......ID 374,0-748,150 #7f08000d app:id/home_cull}
+                                android.widget.Button{b567a5c VFED..C.. ......ID 748,0-1122,150 #7f08000e app:id/home_clear_error}
+                                android.widget.Button{c425165 VFED..C.. ......ID 1122,0-1496,150 #7f08000f app:id/home_tester}
+                            android.widget.RelativeLayout{6279e3a V.E...... .......D 0,962-1496,1832}
+                              android.widget.TextView{bf03aeb V.ED..... ......ID 0,0-1496,76 #7f080006 app:id/textView2}
+                              android.widget.RelativeLayout{3fee048 V.E...... ......ID 0,0-1496,870 #7f080010 app:id/pieChartActivity1}
+                                android.widget.TextView{b8b9ee1 V.ED..... ......ID 32,116-472,165 #7f080011 app:id/textView8}
+                                android.widget.TextView{7e16406 V.ED..... ......ID 32,201-332,250 #7f080012 app:id/textView9}
+                                android.widget.TextView{a159ac7 V.ED..... ......ID 32,286-272,335 #7f080013 app:id/textView10}
+                                com.github.mikephil.charting.charts.PieChart{d45b8f4 V.ED..... ........ 0,80-1496,850}
+                                com.github.mikephil.charting.charts.PieChart{5c2481d V.ED..... ......ID 0,80-1496,850}
+    Looper (main, tid 1) {91fba92}
+      (Total messages: 0, polling=false, quitting=false)
+
+  ACTIVITY com.boschrexroth.indradroid/.ActivityLogin cf8ecd0 pid=1152
+    Local Activity e45b641 State:
+      mResumed=false mStopped=true mFinished=false
+      mChangingConfigurations=false
+      mCurrentConfig={0 1.0 showBtnBg = 0 ?mcc?mnc en_US ldltr sw768dp w768dp h1000dp 320dpi xlrg port finger -keyb/v/h -nav/h s.9}
+      overrideConfig={0 1.0 showBtnBg = -1 ?mcc?mnc ?locale ?layoutDir ?swdp ?wdp ?hdp ?density ?lsize ?long ?orien ?uimode ?night ?touch ?keyb/?/? ?nav/?}
+      DisplayMetrics=DisplayMetrics{density=2.0, width=1536, height=2048, scaledDensity=2.0, xdpi=319.79, ydpi=319.136}
+      mMultiWindowStyle=MultiWindowStyle{type=0, zone=ZONE_UNKNOWN, option=0x00000000, bounds=null, isNull=false, isolatedCenterPoint=Point(0, 0), scale=0.0, specificTaskId=-1}
+      mLoadersStarted=true
+      FragmentManager misc state:
+        mHost=android.app.Activity$HostCallbacks@c471c63
+        mContainer=android.app.Activity$HostCallbacks@c471c63
+        mCurState=3 mStateSaved=true mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=22504759 (74764 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{3492d75 I.E...... R......D 0,0-1536,2048}
+        android.widget.LinearLayout{c7f7060 V.E...... .......D 0,0-1536,2048}
+          android.view.ViewStub{c04919 G.E...... ......I. 0,0-0,0 #102046a android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{a7aedde V.E...... .......D 0,48-1536,2048 #1020002 android:id/content}
+            android.widget.LinearLayout{2851bbf V.E...... .......D 0,0-1536,2000}
+              android.widget.TextView{5db328c V.ED..... ........ 540,550-855,609}
+              android.widget.EditText{c035dd5 VFED..CL. .F....ID 440,609-1040,705 #7f080014 app:id/editAddress}
+              android.widget.TextView{bc409ea V.ED..... ........ 440,705-1040,743}
+              android.widget.EditText{279b4db VFED..CL. ......ID 440,743-1040,839 #7f080015 app:id/editUser}
+              android.widget.TextView{f4eeb78 V.ED..... ........ 440,839-570,877}
+              android.widget.EditText{7290251 VFED..CL. ......ID 440,877-1040,973 #7f080016 app:id/editPass}
+              android.widget.Button{6d0dab6 VFED..C.. ......ID 440,973-1040,1069 #7f080017 app:id/buttonConnect}
+    Looper (main, tid 1) {91fba92}
+      (Total messages: 0, polling=false, quitting=false)

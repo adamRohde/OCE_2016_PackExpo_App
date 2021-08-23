@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<!--    
+<ImageView 
+	    android:layout_height="wrap_content" 
+	    android:layout_width="wrap_content" 
+	    android:id="@+id/imageView1"
+	    android:src="@drawable/img_dupcontrol_small"></ImageView>
+	     -->
+    <TextView 
+	    android:text="@string/app_copyright" 
+	    android:layout_height="wrap_content" 
+	    android:layout_width="fill_parent"
+	    android:gravity="center_horizontal"  
+	    android:id="@+id/textAppCopyright"></TextView>
+	<TextView 
+	    android:layout_height="wrap_content" 
+	    android:layout_width="fill_parent" 
+	    android:id="@+id/textAppInfo"
+	    android:typeface="monospace"></TextView>
+    <Button 
+    	android:layout_height="wrap_content" 
+    	android:id="@+id/button_ok" 
+    	android:text="ok" 
+    	android:layout_width="match_parent"></Button>
+    
+</LinearLayout>
